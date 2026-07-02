@@ -1,5 +1,5 @@
 baseURL = "https://quangkhai21.github.io/AWS.Minecraft-Security-Based/"
-relativeURLs = true
+relativeURLs = false
 canonifyURLs = true
 defaultContentLanguage = "en"
 
