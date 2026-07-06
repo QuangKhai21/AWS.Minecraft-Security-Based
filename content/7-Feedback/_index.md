@@ -6,119 +6,98 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-## Overall Evaluation
+# General Evaluation
 
-### 1. Working Environment
+## 1. Working Environment
 
-The learning and working environment at **Bootcamp First Cloud AI Journey (FCAJ)** was dynamic, friendly, and highly supportive of continuous learning. Mentors, trainers, and fellow participants were always willing to provide guidance whenever challenges arose, creating an atmosphere that encouraged knowledge sharing and personal development. The workspace and learning environment were well organized, allowing participants to focus effectively on research and project development.
+During my internship at Bootcamp First Cloud AI Journey (FCAJ), I found the learning environment to be friendly, supportive, and motivating. Everyone was willing to share knowledge, discuss ideas, and help each other whenever difficulties arose. The mentors encouraged us to think independently and continuously improve ourselves instead of simply providing ready-made solutions.
 
-From my perspective, the program could further enhance the experience by organizing additional networking sessions, technical sharing events, or team-building activities to strengthen collaboration and relationships among participants.
-
----
-
-### 2. Support from Mentors and the Organizing Team
-
-Throughout the internship, the mentors provided detailed technical guidance, answered questions patiently, and offered valuable advice during every stage of the project. Rather than simply providing solutions, they encouraged independent research, experimentation, and critical thinking before offering suggestions and feedback.
-
-In addition, the organizing team provided comprehensive support by supplying learning materials, managing the training schedule, and ensuring that participants had access to the resources needed to complete their projects successfully.
+In my opinion, the program could become even more engaging by organizing additional networking or team-building activities, allowing participants to build stronger connections with mentors and fellow students.
 
 ---
 
-### 3. Relevance to My Academic Major
+## 2. Support from Mentors and Organizers
 
-The internship aligned closely with my academic background in **Information Technology**, particularly in the areas of **Cloud Computing, Cybersecurity, and DevOps**.
+Throughout the internship, I received continuous support from the mentors. Whenever I encountered technical challenges, they patiently guided me by suggesting approaches rather than giving direct answers, which helped me improve my problem-solving and self-learning skills.
 
-While developing the **Minecraft Server Security Platform on AWS**, I was able to apply knowledge gained from courses such as computer networking, operating systems, information security, and software development. At the same time, I explored many AWS services that were new to me, including Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, AWS Systems Manager Session Manager, and AWS Global Accelerator.
-
-This experience not only reinforced my existing knowledge but also gave me practical insight into how cloud services are integrated to build secure, real-world systems.
+The organizing team also prepared useful learning materials, workshops, and technical sessions, creating a well-structured learning environment that helped me complete the internship effectively.
 
 ---
 
-### 4. Learning and Skill Development Opportunities
+## 3. Relevance of the Internship to My Major
 
-The bootcamp provided numerous opportunities for both technical and personal development through activities such as:
+I believe the internship was highly relevant to my major in Information Technology, especially in the areas of Cloud Computing and Cybersecurity.
 
-- Developing a real-world cloud project on AWS.
-- Participating in technical workshops and mini meetups focused on Cloud Computing and Artificial Intelligence.
-- Learning how to design scalable and secure cloud architectures.
-- Improving technical research and documentation skills.
-- Strengthening teamwork, time management, and technical presentation abilities.
-
-These experiences significantly enhanced my readiness for a professional software engineering career.
+By working on the **Minecraft Server Security Platform on AWS**, I was able to apply my knowledge of networking, operating systems, programming, and information security to a real-world project. At the same time, I gained hands-on experience with AWS services such as Amazon EC2, Amazon GuardDuty, AWS Lambda, Amazon SNS, and AWS Backup, which helped me better understand how cloud-based systems are designed and managed.
 
 ---
 
-### 5. Culture and Team Spirit
+## 4. Learning and Skill Development Opportunities
 
-One of the aspects I appreciated most about FCAJ was its collaborative and supportive culture.
+One of the most valuable aspects of the program was the opportunity to learn through practical experience. Besides developing the AWS project, I also attended workshops and meetups where mentors and industry professionals shared their knowledge and experiences.
 
-Mentors and participants were always willing to exchange ideas, share knowledge, and help one another throughout the learning and project development process. Everyone worked with professionalism, mutual respect, and a strong willingness to learn from both successes and mistakes.
-
-This positive environment motivated me to become more proactive, continuously improve myself, and contribute meaningfully to the team despite being an intern.
+During the internship, I improved my technical research skills, system deployment abilities, teamwork, time management, documentation, and presentation skills. These are all essential competencies for my future career.
 
 ---
 
-### 6. Training Program and Internship Benefits
+## 5. Team Culture
 
-The bootcamp offered a comprehensive learning experience that combined theoretical knowledge with practical project implementation.
+The collaborative culture was one of the highlights of the program. Team members and mentors were always willing to share knowledge and work together to solve problems.
 
-In addition to participating in technical training sessions, workshops, and meetups, interns had opportunities to:
-
-- Work on real-world cloud projects.
-- Receive continuous guidance from experienced mentors.
-- Access high-quality learning resources and technical documentation.
-- Expand their professional network within the Cloud Computing and AI communities.
-
-These opportunities played an important role in developing both my technical expertise and professional skills.
+This supportive atmosphere made me feel comfortable asking questions, discussing ideas, and learning from others throughout the internship.
 
 ---
 
-## Additional Questions
+## 6. Training Program and Internship Benefits
 
-### What satisfied me the most during the internship?
+The training program was well organized, combining theoretical knowledge with practical implementation.
 
-The most rewarding aspect of the internship was the opportunity to design and implement a complete **Cloud Security** project from initial planning to deployment.
-
-I also appreciated participating in AWS workshops and community meetups, where I learned from experienced professionals, exchanged ideas with other participants, and gained a broader perspective on modern cloud technologies and career opportunities.
+In addition to receiving guidance from experienced mentors, I had the opportunity to participate in workshops, technical meetups, access high-quality learning resources, and connect with the AWS community. These experiences were extremely valuable as I prepare for my future career.
 
 ---
 
-### What improvements could be made for future interns?
+# Additional Questions
 
-From my perspective, the program could be further enhanced by:
+## What satisfied you the most during the internship?
 
-- Providing more advanced hands-on laboratories covering AWS security and cloud-native technologies.
-- Inviting industry engineers to share real-world project experiences and best practices.
-- Conducting regular project review sessions to provide continuous feedback throughout the internship.
-- Organizing more cross-team collaboration activities to encourage knowledge sharing among participants.
+The most satisfying part of my internship was having the opportunity to work on a real AWS project instead of only studying theoretical concepts.
+
+From researching and designing the solution to deploying and testing the system, I gained practical experience that helped me better understand how cloud technologies are applied in real environments.
+
+The workshops and meetups also broadened my understanding of Cloud Computing and helped me clarify my future career direction.
 
 ---
 
-### Would I recommend this program to my friends?
+## What would you like the program to improve?
+
+From my perspective, the program could include more advanced hands-on AWS labs and invite more engineers from industry to share their practical experiences.
+
+It would also be beneficial to organize regular project review sessions and more networking activities between teams so participants could exchange ideas and learn from each other.
+
+---
+
+## Would you recommend this program to your friends?
 
 **Yes.**
 
-I would highly recommend the **First Cloud AI Journey Bootcamp** to anyone interested in Cloud Computing, DevOps, Artificial Intelligence, or Cybersecurity.
+I would definitely recommend Bootcamp First Cloud AI Journey to my friends because it provides practical learning opportunities, real project experience, supportive mentors, and valuable connections within the AWS community.
 
-The program offers practical experience through real-world projects, technical workshops, and community activities while providing valuable mentorship and opportunities to build a professional network. It is an excellent environment for students and aspiring cloud engineers who want to gain hands-on experience with AWS technologies.
-
----
-
-## Suggestions and Future Expectations
-
-In the future, I hope the program can continue expanding by offering:
-
-- More advanced topics in Cloud Security, Infrastructure as Code (Terraform and AWS CDK), Kubernetes, and Platform Engineering.
-- Additional hands-on workshops based on real enterprise scenarios.
-- More networking opportunities connecting mentors, industry professionals, and participants.
-- Larger team-based projects that simulate real software development and cloud engineering workflows.
-
-If given the opportunity, I would be delighted to continue participating in future **First Cloud AI Journey** programs, advanced bootcamps, or community events related to AWS, Cloud Computing, and Cybersecurity.
+It is an excellent program for students who are interested in Cloud Computing, DevOps, AI, or Cybersecurity.
 
 ---
 
-### Additional Comments
+# Suggestions
 
-I would like to express my sincere gratitude to the organizing committee, mentors, trainers, and everyone involved in **Bootcamp First Cloud AI Journey** for creating such a professional, supportive, and inspiring learning environment.
+In the future, I hope the program will continue expanding its content in areas such as Cloud Security, Terraform, Kubernetes, and Infrastructure as Code.
 
-The knowledge, practical experience, and professional mindset I gained throughout this internship have become a solid foundation for my future career. I will continue improving my technical expertise and professional skills to become a competent Cloud and Cybersecurity Engineer while contributing positively to the technology community.
+I would also like to see more hands-on workshops, larger team projects, and additional networking opportunities between mentors, industry partners, and participants.
+
+If possible, I would be very happy to continue participating in future Bootcamp First Cloud AI Journey programs or community activities.
+
+---
+
+## Final Comments
+
+I would like to sincerely thank the organizing team, mentors, and everyone involved in Bootcamp First Cloud AI Journey for creating such a supportive and inspiring learning environment.
+
+The knowledge, practical experience, and professional skills I gained during this internship will become a solid foundation for my future career in Cloud Computing and Cybersecurity.

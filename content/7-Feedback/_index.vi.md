@@ -10,66 +10,49 @@ pre: " <b> 7. </b> "
 
 ### 1. Môi trường làm việc
 
-Môi trường học tập và làm việc tại **Bootcamp First Cloud AI Journey (FCAJ)** rất năng động, thân thiện và khuyến khích tinh thần học hỏi. Các mentor, trainer và các thành viên luôn sẵn sàng hỗ trợ khi gặp khó khăn, tạo điều kiện để mỗi học viên có thể trao đổi kiến thức và phát triển kỹ năng. Không gian làm việc và học tập được tổ chức hợp lý, tạo cảm giác thoải mái và giúp tập trung vào quá trình nghiên cứu, phát triển dự án.
+Trong thời gian tham gia Bootcamp First Cloud AI Journey (FCAJ), em cảm nhận đây là một môi trường học tập rất tích cực và cởi mở. Mọi người đều sẵn sàng chia sẻ kiến thức, hỗ trợ nhau khi gặp khó khăn và luôn khuyến khích tinh thần tự học. Các mentor không chỉ hướng dẫn về chuyên môn mà còn tạo động lực để học viên chủ động tìm hiểu và phát triển bản thân. Nhờ đó, em luôn cảm thấy thoải mái khi trao đổi ý kiến hoặc đặt câu hỏi trong quá trình thực hiện dự án.
 
-Theo quan điểm cá nhân, chương trình có thể tổ chức thêm nhiều hoạt động giao lưu, chia sẻ kinh nghiệm hoặc team building nhằm tăng cường sự gắn kết giữa các học viên và mentor.
+Theo cảm nhận của em, chương trình sẽ còn hấp dẫn hơn nếu có thêm một số hoạt động giao lưu hoặc team building để các học viên có nhiều cơ hội kết nối và học hỏi lẫn nhau ngoài các buổi học.
 
 ---
 
 ### 2. Sự hỗ trợ của Mentor và Ban tổ chức
 
-Trong suốt quá trình thực tập, các mentor luôn hướng dẫn tận tình, giải đáp những vấn đề chuyên môn và đưa ra nhiều định hướng phù hợp trong quá trình thực hiện dự án. Thay vì chỉ cung cấp đáp án, mentor thường khuyến khích học viên chủ động nghiên cứu, thử nghiệm và tự tìm ra giải pháp trước khi đưa ra những góp ý cần thiết.
+Trong suốt quá trình thực tập, em luôn nhận được sự hỗ trợ nhiệt tình từ các mentor. Mỗi khi gặp khó khăn trong quá trình triển khai dự án, mentor đều hướng dẫn tận tình, gợi ý cách tiếp cận thay vì đưa ra đáp án ngay, giúp em rèn luyện khả năng tự nghiên cứu và giải quyết vấn đề.
 
-Bên cạnh đó, Ban tổ chức và đội ngũ hỗ trợ luôn tạo điều kiện thuận lợi về tài liệu, cơ sở hạ tầng và các hoạt động học tập, giúp quá trình thực tập diễn ra hiệu quả và đúng tiến độ.
+Bên cạnh đó, Ban tổ chức cũng chuẩn bị đầy đủ tài liệu học tập, tổ chức các buổi workshop và tạo điều kiện để học viên tiếp cận với nhiều kiến thức mới. Điều này giúp em có thêm động lực để hoàn thành tốt các nhiệm vụ trong suốt chương trình.
 
 ---
 
 ### 3. Sự phù hợp giữa nội dung thực tập và chuyên ngành
 
-Nội dung thực tập có sự liên kết chặt chẽ với chuyên ngành Công nghệ thông tin, đặc biệt trong các lĩnh vực Cloud Computing, Cyber Security và DevOps.
+Theo em, nội dung thực tập rất phù hợp với chuyên ngành Công nghệ thông tin, đặc biệt là định hướng về Cloud Computing và Cyber Security.
 
-Thông qua việc nghiên cứu và triển khai dự án **Minecraft Server Security Platform on AWS**, em có cơ hội vận dụng các kiến thức đã học về mạng máy tính, hệ điều hành, bảo mật thông tin và lập trình, đồng thời tiếp cận nhiều công nghệ mới của AWS như Amazon GuardDuty, AWS Lambda, Amazon SNS, AWS Backup, Systems Manager Session Manager và Global Accelerator.
-
-Điều này giúp em không chỉ củng cố nền tảng chuyên môn mà còn hiểu rõ hơn cách các dịch vụ Cloud được ứng dụng trong các hệ thống thực tế.
+Thông qua dự án **Minecraft Server Security Platform on AWS**, em có cơ hội áp dụng những kiến thức đã học về mạng máy tính, bảo mật, hệ điều hành và lập trình vào một bài toán thực tế. Đồng thời, em cũng được tiếp cận với nhiều dịch vụ của AWS như Amazon EC2, Amazon GuardDuty, AWS Lambda, Amazon SNS và AWS Backup, từ đó hiểu rõ hơn cách xây dựng và vận hành một hệ thống trên nền tảng Cloud.
 
 ---
 
 ### 4. Cơ hội học hỏi và phát triển kỹ năng
 
-Bootcamp mang đến rất nhiều cơ hội để học hỏi và phát triển bản thân thông qua các hoạt động như:
+Điều em thấy giá trị nhất trong chương trình là cơ hội được học thông qua dự án thực tế. Ngoài việc triển khai hệ thống trên AWS, em còn được tham gia các buổi workshop và meetup để lắng nghe những chia sẻ từ mentor cũng như các anh chị có kinh nghiệm trong ngành.
 
-- Tham gia xây dựng dự án thực tế trên nền tảng AWS.
-- Tham dự các buổi Workshop và Mini Meetup về Cloud Computing và Artificial Intelligence.
-- Học cách thiết kế kiến trúc hệ thống theo các tiêu chuẩn thực tế.
-- Nâng cao kỹ năng nghiên cứu tài liệu kỹ thuật và xây dựng tài liệu dự án.
-- Rèn luyện kỹ năng làm việc nhóm, quản lý thời gian và trình bày ý tưởng trước cộng đồng.
-
-Đây là những trải nghiệm có giá trị giúp em chuẩn bị tốt hơn cho môi trường làm việc chuyên nghiệp sau khi tốt nghiệp.
+Qua quá trình đó, em cải thiện được nhiều kỹ năng như tìm kiếm tài liệu kỹ thuật, triển khai hệ thống, làm việc nhóm, quản lý thời gian và trình bày ý tưởng. Đây đều là những kỹ năng rất cần thiết cho công việc sau này.
 
 ---
 
 ### 5. Văn hóa và tinh thần đồng đội
 
-Một trong những điểm em đánh giá cao nhất tại FCAJ là tinh thần chia sẻ và hỗ trợ giữa các thành viên.
+Điều khiến em ấn tượng nhất là tinh thần hỗ trợ giữa các thành viên trong Bootcamp. Mọi người luôn sẵn sàng chia sẻ kinh nghiệm, cùng nhau thảo luận để giải quyết vấn đề thay vì làm việc riêng lẻ.
 
-Các mentor và học viên luôn sẵn sàng trao đổi kiến thức, hỗ trợ nhau trong quá trình nghiên cứu và phát triển dự án. Mọi người làm việc với tinh thần trách nhiệm, tôn trọng lẫn nhau và luôn khuyến khích việc học hỏi từ những sai sót thay vì chỉ tập trung vào kết quả.
-
-Điều đó giúp em cảm thấy mình là một phần của cộng đồng, tạo động lực để chủ động học tập và đóng góp nhiều hơn cho tập thể.
+Không khí làm việc thân thiện giúp em tự tin hơn khi trao đổi ý tưởng và cũng tạo động lực để em chủ động học hỏi nhiều hơn trong suốt quá trình thực tập.
 
 ---
 
 ### 6. Chương trình đào tạo và quyền lợi dành cho thực tập sinh
 
-Bootcamp cung cấp nhiều nội dung đào tạo có giá trị, từ kiến thức nền tảng về AWS đến các kỹ năng triển khai hệ thống thực tế.
+Theo em, chương trình được xây dựng khá bài bản, kết hợp giữa lý thuyết và thực hành nên học viên có nhiều cơ hội áp dụng kiến thức vào dự án thực tế.
 
-Ngoài việc được tham gia các buổi đào tạo chuyên môn, workshop và meetup, học viên còn có cơ hội:
-
-- Thực hiện dự án thực tế.
-- Được mentor theo sát trong suốt quá trình thực tập.
-- Tiếp cận các tài liệu và nguồn học tập chất lượng.
-- Mở rộng mối quan hệ với cộng đồng Cloud Computing và AI.
-
-Đây là những trải nghiệm quý giá giúp em phát triển cả kiến thức chuyên môn lẫn kỹ năng mềm.
+Ngoài việc được mentor hướng dẫn xuyên suốt, em còn được tham gia workshop, meetup, tiếp cận các tài liệu học tập chất lượng và mở rộng mối quan hệ với cộng đồng AWS. Đây đều là những trải nghiệm rất hữu ích đối với một sinh viên chuẩn bị bước vào môi trường làm việc.
 
 ---
 
@@ -77,20 +60,17 @@ Ngoài việc được tham gia các buổi đào tạo chuyên môn, workshop v
 
 ### Điều em hài lòng nhất trong thời gian thực tập
 
-Điều em hài lòng nhất là được tham gia vào một môi trường học tập thực tế, nơi em có cơ hội nghiên cứu, triển khai và hoàn thiện một dự án Cloud Security từ giai đoạn lên ý tưởng đến triển khai hoàn chỉnh.
+Điều em hài lòng nhất là được trực tiếp tham gia xây dựng một dự án thực tế trên AWS thay vì chỉ học lý thuyết. Quá trình từ nghiên cứu, triển khai đến hoàn thiện hệ thống giúp em hiểu rõ hơn cách áp dụng kiến thức vào thực tế.
 
-Bên cạnh đó, việc được tham gia các Workshop, Meetup và giao lưu với các chuyên gia trong lĩnh vực AWS giúp em mở rộng góc nhìn về công nghệ cũng như định hướng nghề nghiệp trong tương lai.
+Bên cạnh đó, các buổi workshop và meetup cũng giúp em mở rộng góc nhìn về Cloud Computing và có thêm định hướng cho công việc trong tương lai.
 
 ---
 
 ### Điều em mong chương trình có thể cải thiện
 
-Theo quan điểm cá nhân, chương trình có thể bổ sung thêm:
+Theo ý kiến cá nhân, chương trình có thể bổ sung thêm nhiều buổi thực hành chuyên sâu về các dịch vụ AWS nâng cao, đồng thời tổ chức thêm các buổi chia sẻ kinh nghiệm từ kỹ sư đang làm việc tại doanh nghiệp.
 
-- Nhiều buổi thực hành chuyên sâu (Hands-on Lab) về các dịch vụ AWS nâng cao.
-- Các buổi chia sẻ kinh nghiệm từ kỹ sư đang làm việc tại doanh nghiệp.
-- Hoạt động đánh giá tiến độ dự án định kỳ để học viên nhận được nhiều phản hồi hơn trong quá trình phát triển sản phẩm.
-- Một số hoạt động kết nối giữa các nhóm nhằm tăng cơ hội trao đổi và học hỏi lẫn nhau.
+Ngoài ra, nếu có thêm các buổi đánh giá tiến độ dự án định kỳ hoặc hoạt động giao lưu giữa các nhóm thì học viên sẽ có nhiều cơ hội học hỏi và trao đổi kinh nghiệm hơn.
 
 ---
 
@@ -98,27 +78,24 @@ Theo quan điểm cá nhân, chương trình có thể bổ sung thêm:
 
 **Có.**
 
-Em sẵn sàng giới thiệu Bootcamp First Cloud AI Journey cho bạn bè vì đây là một chương trình mang tính thực tiễn cao, giúp người học không chỉ tiếp cận kiến thức về AWS mà còn có cơ hội tham gia các dự án thực tế, workshop chuyên môn và xây dựng mạng lưới kết nối với cộng đồng Cloud Computing.
+Em sẵn sàng giới thiệu Bootcamp First Cloud AI Journey cho bạn bè vì đây là một chương trình mang tính thực tiễn cao. Chương trình không chỉ giúp em hiểu hơn về AWS và Cloud Computing mà còn tạo điều kiện để được tham gia dự án thực tế, học hỏi từ mentor và kết nối với cộng đồng có cùng định hướng.
 
-Đây là môi trường phù hợp cho những ai mong muốn phát triển theo định hướng Cloud, DevOps, AI hoặc Cyber Security.
+Đây sẽ là một lựa chọn phù hợp đối với những bạn muốn phát triển trong lĩnh vực Cloud, DevOps hoặc Cyber Security.
 
 ---
 
 ## Đề xuất và mong muốn
 
-Trong tương lai, em mong chương trình có thể:
+Trong thời gian tới, em mong chương trình sẽ tiếp tục mở rộng thêm các nội dung về Cloud Security, Terraform, Kubernetes hoặc Infrastructure as Code để học viên có thêm cơ hội tiếp cận các công nghệ mới.
 
-- Mở rộng thêm các chủ đề về Cloud Security, Infrastructure as Code (Terraform, AWS CDK) và Kubernetes.
-- Tăng cường các buổi workshop thực hành với các tình huống thực tế.
-- Tổ chức thêm nhiều hoạt động kết nối giữa mentor, doanh nghiệp và học viên.
-- Phát triển thêm các dự án nhóm quy mô lớn để học viên có cơ hội trải nghiệm quy trình phát triển sản phẩm hoàn chỉnh.
+Bên cạnh đó, em cũng mong sẽ có thêm nhiều workshop thực hành, dự án nhóm quy mô lớn và các hoạt động kết nối giữa mentor, doanh nghiệp và học viên.
 
-Nếu có cơ hội, em rất mong muốn được tiếp tục đồng hành cùng Bootcamp First Cloud AI Journey trong các chương trình nâng cao hoặc các hoạt động cộng đồng về AWS và Cloud Computing.
+Nếu có cơ hội, em rất mong được tiếp tục tham gia các chương trình hoặc hoạt động cộng đồng do Bootcamp First Cloud AI Journey tổ chức.
 
 ---
 
 ### Góp ý khác
 
-Em xin gửi lời cảm ơn đến Ban tổ chức, các mentor và toàn thể thành viên của Bootcamp First Cloud AI Journey đã tạo ra một môi trường học tập chuyên nghiệp, cởi mở và truyền nhiều cảm hứng.
+Em xin chân thành cảm ơn Ban tổ chức, các mentor và tất cả thành viên của Bootcamp First Cloud AI Journey đã luôn hỗ trợ và tạo điều kiện để em học tập trong suốt thời gian vừa qua.
 
-Những kiến thức, kinh nghiệm và trải nghiệm mà em nhận được trong suốt quá trình thực tập sẽ là nền tảng quan trọng giúp em tiếp tục phát triển bản thân và theo đuổi con đường nghề nghiệp trong lĩnh vực Cloud Computing và Cyber Security.
+Những kiến thức, kinh nghiệm và trải nghiệm mà em nhận được trong chương trình sẽ là hành trang quý báu giúp em tự tin hơn trên con đường phát triển nghề nghiệp sau này.

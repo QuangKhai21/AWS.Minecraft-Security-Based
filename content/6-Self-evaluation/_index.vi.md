@@ -6,19 +6,14 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt thời gian thực tập tại **Bootcamp First Cloud AI Journey** từ **20/04/2026** đến **12/07/2026**, tôi đã có cơ hội học hỏi, rèn luyện và áp dụng kiến thức đã được trang bị tại trường vào môi trường làm việc thực tế.  
+Trong thời gian thực tập tại **Bootcamp First Cloud AI Journey** từ **20/04/2026** đến **12/07/2026**, tôi đã có cơ hội được tiếp cận với môi trường làm việc thực tế và vận dụng những kiến thức đã học trên giảng đường vào quá trình triển khai dự án. Đây là khoảng thời gian giúp tôi học hỏi được rất nhiều điều, không chỉ về chuyên môn mà còn về cách làm việc trong một môi trường công nghệ chuyên nghiệp.
 
-Tôi đã tham gia **xây dựng dự án, tham dự hội thảo, nghiên cứu và học hỏi**, qua đó cải thiện kỹ năng **kỹ năng: lập trình, phân tích, viết báo cáo, giao tiếp…**.  
+Trong suốt quá trình thực tập, tôi tham gia nghiên cứu và xây dựng dự án **Hệ thống bảo mật máy chủ Minecraft trên AWS**. Tôi trực tiếp tìm hiểu và triển khai các dịch vụ như Amazon EC2, Amazon GuardDuty, AWS Lambda, Amazon SNS và AWS Backup nhằm xây dựng một hệ thống có khả năng giám sát, cảnh báo, tự động phản ứng trước các nguy cơ bảo mật và đảm bảo dữ liệu luôn được sao lưu an toàn.
 
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ, tuân thủ nội quy, và tích cực trao đổi với đồng nghiệp để nâng cao hiệu quả công việc.
+Bên cạnh việc hoàn thành các nhiệm vụ được giao, tôi cũng chủ động tìm hiểu thêm tài liệu, tham gia các buổi hội thảo, thảo luận với người hướng dẫn và các thành viên trong chương trình để hiểu rõ hơn về điện toán đám mây, bảo mật hệ thống và quy trình triển khai một dự án thực tế. Những trải nghiệm này giúp tôi cải thiện đáng kể kỹ năng nghiên cứu, tư duy phân tích, triển khai hệ thống, viết tài liệu kỹ thuật, làm việc nhóm cũng như kỹ năng trình bày và báo cáo.
 
-Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
+Về tác phong làm việc, tôi luôn cố gắng hoàn thành công việc đúng tiến độ, có tinh thần trách nhiệm, chủ động tiếp thu ý kiến đóng góp và sẵn sàng điều chỉnh khi gặp thiếu sót. Trong quá trình làm việc, tôi nhận thấy việc trao đổi thường xuyên với người hướng dẫn và đồng nghiệp giúp công việc hiệu quả hơn, đồng thời giúp bản thân học hỏi được nhiều kinh nghiệm thực tế.
 
-Trong quá trình thực tập, tôi đã tham gia nghiên cứu và xây dựng dự án **Hệ thống bảo mật máy chủ Minecraft trên AWS**, tập trung vào việc triển khai máy chủ Minecraft trên Amazon EC2, thiết kế kiến trúc bảo mật, phát hiện xâm nhập bằng Amazon GuardDuty, tự động phản ứng bằng AWS Lambda, gửi cảnh báo qua Amazon SNS và sao lưu dữ liệu bằng AWS Backup.
-
-Thông qua dự án, tôi đã cải thiện nhiều kỹ năng quan trọng như **tìm hiểu dịch vụ AWS, thiết kế kiến trúc Cloud, phân tích bảo mật, viết tài liệu kỹ thuật, triển khai hệ thống, kiểm thử, viết báo cáo và trình bày ý tưởng**.
-
-Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được giao, tuân thủ nội quy, chủ động học hỏi và tích cực trao đổi với người hướng dẫn cũng như đồng nghiệp để nâng cao hiệu quả công việc.
 
 Để phản ánh một cách khách quan quá trình thực tập, tôi xin tự đánh giá bản thân dựa trên các tiêu chí dưới đây:
 
@@ -28,7 +23,7 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được
 | 2 | **Khả năng học hỏi** | Tiếp thu kiến thức mới, học hỏi nhanh | ✅ | ☐ | ☐ |
 | 3 | **Chủ động** | Tự tìm hiểu, nhận nhiệm vụ mà không chờ chỉ dẫn | ✅ | ☐ | ☐ |
 | 4 | **Tinh thần trách nhiệm** | Hoàn thành công việc đúng hạn, đảm bảo chất lượng | ✅ | ☐ | ☐ |
-| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ☐ | ✅ | ☐ |
+| 5 | **Kỷ luật** | Tuân thủ giờ giấc, nội quy, quy trình làm việc | ✅ | ☐ | ☐ |
 | 6 | **Tính cầu tiến** | Sẵn sàng nhận feedback và cải thiện bản thân | ✅ | ☐ | ☐ |
 | 7 | **Giao tiếp** | Trình bày ý tưởng, báo cáo công việc rõ ràng | ✅ | ☐ | ☐ |
 | 8 | **Hợp tác nhóm** | Làm việc hiệu quả với đồng nghiệp, tham gia nhóm | ✅ | ☐ | ☐ |
@@ -39,18 +34,20 @@ Về tác phong, tôi luôn cố gắng hoàn thành tốt nhiệm vụ được
 
 ---
 
-### Cần cải thiện
+## Những điểm cần cải thiện
 
-- Nâng cao tính kỷ luật, chấp hành nghiêm chỉnh nội quy của công ty hoặc bất kỳ tổ chức nào.
-- Cải thiện tư duy giải quyết vấn đề, đặc biệt là khả năng phân tích nguyên nhân và lựa chọn giải pháp phù hợp.
-- Rèn luyện kỹ năng giao tiếp trong công việc, bao gồm cách trình bày ý tưởng, phản hồi ý kiến và xử lý tình huống.
-- Chủ động hơn trong việc lập kế hoạch cá nhân để quản lý thời gian và tiến độ công việc hiệu quả hơn.
-- Tiếp tục nâng cao kiến thức chuyên môn về AWS, Cloud Security và tự động hóa hạ tầng.
+Qua quá trình thực tập, tôi nhận thấy bản thân vẫn còn một số điểm cần tiếp tục hoàn thiện.
+
+- Cần quản lý thời gian tốt hơn để cân bằng giữa việc nghiên cứu và triển khai công việc.
+- Tiếp tục nâng cao kiến thức chuyên sâu về AWS, Cloud Security và DevOps để có thể triển khai những hệ thống có quy mô lớn hơn.
+- Rèn luyện thêm kỹ năng phân tích và xử lý các tình huống phát sinh trong quá trình vận hành hệ thống.
+- Cải thiện khả năng trình bày và diễn đạt ý tưởng trước tập thể để giao tiếp hiệu quả hơn.
+- Duy trì tinh thần chủ động học hỏi và cập nhật các công nghệ mới.
 
 ---
 
-### Kết luận
+## Kết luận
 
-Nhìn chung, quá trình thực tập đã giúp tôi trưởng thành hơn về cả kiến thức chuyên môn lẫn tác phong làm việc. Tôi có cơ hội tiếp cận môi trường thực tế, học cách triển khai một dự án công nghệ theo quy trình rõ ràng và hiểu hơn về vai trò của tinh thần trách nhiệm, sự chủ động cũng như khả năng phối hợp trong công việc.
+Đợt thực tập tại Bootcamp First Cloud AI Journey là một trải nghiệm rất ý nghĩa đối với tôi. Tôi không chỉ được củng cố kiến thức chuyên môn mà còn hiểu rõ hơn về cách làm việc trong môi trường thực tế, cách phối hợp với mọi người để hoàn thành mục tiêu chung và cách giải quyết những vấn đề phát sinh trong quá trình triển khai dự án.
 
-Những kinh nghiệm tích lũy được trong kỳ thực tập sẽ là nền tảng quan trọng để tôi tiếp tục hoàn thiện bản thân, nâng cao năng lực chuyên môn và chuẩn bị tốt hơn cho công việc trong tương lai.
+Những kiến thức và kinh nghiệm tích lũy được trong suốt thời gian thực tập sẽ là nền tảng quan trọng giúp tôi tự tin hơn khi bước vào môi trường làm việc sau khi tốt nghiệp. Đồng thời, đây cũng là động lực để tôi tiếp tục học hỏi, nâng cao năng lực chuyên môn và hoàn thiện bản thân trong thời gian tới.

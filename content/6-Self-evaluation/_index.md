@@ -6,15 +6,14 @@ chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Throughout my internship at **Bootcamp First Cloud AI Journey** from **April 20, 2026** to **July 12, 2026**, I had the opportunity to learn, develop, and apply the knowledge acquired during my university studies in a real-world working environment.
+During my internship at the **Bootcamp First Cloud AI Journey** from **April 20, 2026, to July 12, 2026**, I had the opportunity to experience a professional working environment and apply the knowledge I had learned at university to a real-world project. This internship helped me gain valuable practical experience and develop both my technical and interpersonal skills.
 
-During the internship, I participated in **project development, technical workshops, research activities, and self-directed learning**, which significantly improved my skills in **programming, system analysis, technical documentation, communication, teamwork, and problem-solving**.
+Throughout the internship, I participated in the development of the **Minecraft Server Security System on AWS**. I researched and implemented several AWS services, including Amazon EC2, Amazon GuardDuty, AWS Lambda, Amazon SNS, and AWS Backup, to build a system capable of monitoring security events, automatically responding to potential threats, sending notifications, and protecting data through scheduled backups.
 
-Regarding my work ethic, I consistently strived to complete assigned tasks responsibly, complied with the organization's regulations, proactively learned new technologies, and actively communicated with mentors and teammates to improve work efficiency.
+Besides completing my assigned tasks, I actively explored AWS documentation, attended technical workshops, discussed solutions with my mentor and teammates, and continuously expanded my understanding of cloud computing and cybersecurity. These experiences significantly improved my technical knowledge, analytical thinking, documentation skills, teamwork, and communication abilities.
 
-Throughout the internship, I contributed to the design and implementation of the **Minecraft Server Security Platform on AWS**, focusing on deploying a Minecraft server on Amazon EC2, designing a secure cloud architecture, detecting security threats with Amazon GuardDuty, automating incident response using AWS Lambda, sending notifications through Amazon SNS, and protecting server data with AWS Backup.
+Regarding my working attitude, I always tried to complete tasks on schedule, took responsibility for my work, listened carefully to feedback, and continuously improved myself throughout the internship. I also realized that effective communication and collaboration played an important role in achieving better project outcomes.
 
-Through this project, I strengthened my knowledge of **AWS services, cloud architecture design, cybersecurity, technical documentation, system deployment, testing, report writing, and technical presentation skills**.
 
 To objectively reflect on my internship performance, I conducted the following self-assessment based on several evaluation criteria.
 
@@ -24,7 +23,7 @@ To objectively reflect on my internship performance, I conducted the following s
 | 2 | **Learning Ability** | Ability to acquire new knowledge and learn quickly | ✅ | ☐ | ☐ |
 | 3 | **Proactiveness** | Ability to work independently and take initiative without constant supervision | ✅ | ☐ | ☐ |
 | 4 | **Responsibility** | Completing assigned tasks on time while maintaining quality | ✅ | ☐ | ☐ |
-| 5 | **Discipline** | Compliance with working hours, company regulations, and workflows | ☐ | ✅ | ☐ |
+| 5 | **Discipline** | Compliance with working hours, company regulations, and workflows | ✅ | ☐ | ☐ |
 | 6 | **Self-Improvement** | Willingness to receive feedback and continuously improve | ✅ | ☐ | ☐ |
 | 7 | **Communication Skills** | Ability to communicate ideas and report work clearly | ✅ | ☐ | ☐ |
 | 8 | **Teamwork** | Collaboration with teammates and contribution to group activities | ✅ | ☐ | ☐ |
@@ -37,18 +36,16 @@ To objectively reflect on my internship performance, I conducted the following s
 
 ## Areas for Improvement
 
-- Improve self-discipline by consistently following organizational regulations and professional working standards.
-- Strengthen analytical thinking and enhance problem-solving skills, particularly when evaluating multiple solution approaches.
-- Continue improving communication skills, including presenting ideas, providing constructive feedback, and handling workplace situations effectively.
-- Develop better personal planning and time management to improve productivity and task prioritization.
-- Continue expanding technical knowledge in AWS, Cloud Security, Infrastructure Automation, and modern cloud-native technologies.
+Although I achieved many learning objectives during the internship, I believe there are still several areas that I need to improve.
+
+- Improve time management to balance learning and project implementation more effectively.
+- Continue strengthening my knowledge of AWS, Cloud Security, and DevOps.
+- Develop stronger analytical and troubleshooting skills for real-world systems.
+- Improve presentation and communication skills when explaining technical ideas.
+- Maintain a proactive learning mindset and stay updated with emerging technologies.
 
 ---
 
 ## Conclusion
 
-Overall, the internship provided me with valuable opportunities to grow both technically and professionally. I gained hands-on experience in developing a cloud security project from architecture design to implementation while learning how to work within a structured engineering process.
-
-The internship also helped me better understand the importance of responsibility, initiative, continuous learning, communication, and teamwork in a professional environment.
-
-The knowledge and experience I gained during this internship will serve as a strong foundation for my future career. I will continue improving my technical expertise, professional skills, and practical experience to become a more capable Cloud and Cybersecurity Engineer.
+The internship at **Bootcamp First Cloud AI Journey** was a valuable experience that helped me grow both professionally and personally. I gained practical experience in cloud computing, cybersecurity, teamwork, and project implementation while understanding the importance of responsibility, communication, and continuous learning.
