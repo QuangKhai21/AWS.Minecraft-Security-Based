@@ -33,14 +33,10 @@ Sự kiện được tổ chức bởi:
 - Chương trình First Cloud AI Journey.
 - Các đối tác công nghệ gồm:
   - AWS
-  - NVIDIA
-  - Google Cloud
+
 
 Thành phần tham dự bao gồm:
 
-- Hơn **2.000 AI Builders** và lập trình viên.
-- Khoảng **30 đơn vị hỗ trợ chuyên môn**.
-- Đại diện của **10 doanh nghiệp công nghệ** trong lĩnh vực AI và Cloud Computing.
 - Sinh viên, kỹ sư phần mềm và những người quan tâm đến AI và AWS.
 
 ---

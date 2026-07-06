@@ -33,14 +33,10 @@ The event was organized by:
 - First Cloud AI Journey
 - Technology partners:
   - AWS
-  - NVIDIA
-  - Google Cloud
+
 
 Participants included:
 
-- More than **2,000 AI Builders** and software developers.
-- Approximately **30 supporting organizations**.
-- Representatives from **10 technology companies**.
 - Students, software engineers, and individuals interested in Cloud Computing and Artificial Intelligence.
 
 ---
