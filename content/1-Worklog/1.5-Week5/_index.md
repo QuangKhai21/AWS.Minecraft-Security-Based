@@ -1,6 +1,6 @@
 ---
 title: "Week 5 Worklog"
-date: 2026-05-15
+date: 2026-05-18
 weight: 5
 chapter: false
 pre: " <b> 1.5. </b> "
@@ -8,24 +8,25 @@ pre: " <b> 1.5. </b> "
 
 ### Week 5 Objectives
 
-* Build a complete AWS VPC environment.
-* Learn subnetting, routing, internet gateway, NAT gateway, security groups, and NACLs.
-* Practice connectivity verification with Reachability Analyzer, SSM Session Manager, and CloudWatch.
+* Build a complete networking environment using Amazon VPC.
+* Understand the roles of Subnets, Route Tables, Internet Gateway, NAT Gateway, Security Groups, and Network ACLs.
+* Practice network connectivity testing and infrastructure monitoring on AWS.
 
-### Tasks to be carried out this week:
+### Tasks for This Week
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Study VPC concepts: subnets, route tables, IGW, NAT<br>- Learn Security Groups and NACLs | 15/05/2026 | 15/05/2026 | AWS VPC documentation |
-| 3 | - Create a custom VPC<br>- Create public and private subnets<br>- Attach an Internet Gateway | 16/05/2026 | 16/05/2026 | AWS VPC console |
-| 4 | - Configure route tables for public and private traffic<br>- Create and test a NAT Gateway | 17/05/2026 | 17/05/2026 | AWS networking guides |
-| 5 | - Create Security Groups and NACLs<br>- Enable VPC Flow Logs<br>- Run Reachability Analyzer | 18/05/2026 | 19/05/2026 | AWS VPC security docs |
-| 6 | - Launch an EC2 instance in the VPC<br>- Connect using Session Manager<br>- Review CloudWatch metrics and alarms | 19/05/2026 | 19/05/2026 | AWS Systems Manager |
+| Day | Tasks | Start Date | Finish Date | Reference |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | -------------------------------- |
+| Monday | - Review Amazon VPC, Subnets, Route Tables, Internet Gateway, and NAT Gateway concepts.<br>- Study Security Groups and Network ACLs.<br>- Compare Security Groups with Network ACLs. | 18/05/2026 | 18/05/2026 | https://docs.aws.amazon.com/vpc/latest/userguide/ |
+| Tuesday | - Create an Amazon VPC.<br>- Configure Public and Private Subnets.<br>- Attach an Internet Gateway to the VPC. | 19/05/2026 | 19/05/2026 | https://docs.aws.amazon.com/vpc/latest/userguide/create-vpc.html |
+| Wednesday | - Configure Route Tables for Public and Private Subnets.<br>- Create a NAT Gateway.<br>- Verify Internet connectivity from the Private Subnet. | 20/05/2026 | 20/05/2026 | https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html |
+| Thursday | - Create Security Groups and Network ACLs.<br>- Enable VPC Flow Logs.<br>- Run Reachability Analyzer to verify network paths. | 21/05/2026 | 21/05/2026 | https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html |
+| Friday | - Launch an EC2 instance inside the VPC.<br>- Connect using AWS Systems Manager Session Manager.<br>- Monitor CloudWatch Metrics and create basic alarms. | 22/05/2026 | 22/05/2026 | https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html |
+| Saturday | - Summarize Amazon VPC concepts learned this week.<br>- Finalize the network architecture diagram and VPC configuration checklist.<br>- Prepare the learning plan for Week 6. | 23/05/2026 | 23/05/2026 | https://aws.amazon.com/vpc/ |
 
 ### Week 5 Achievements
 
-* Built a functional VPC with public and private subnets.
-* Configured routing, NAT, Security Groups, and NACLs.
-* Verified network paths with Reachability Analyzer.
-* Connected to EC2 without SSH using Session Manager.
-* Set up basic CloudWatch monitoring for network visibility.
+* Successfully built an Amazon VPC with Public and Private Subnets.
+* Configured Route Tables, NAT Gateway, Security Groups, and Network ACLs correctly.
+* Verified network connectivity using Reachability Analyzer.
+* Connected to EC2 instances through Session Manager without SSH.
+* Configured CloudWatch for basic network resource monitoring.

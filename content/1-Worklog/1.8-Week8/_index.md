@@ -1,6 +1,6 @@
 ---
 title: "Week 8 Worklog"
-date: 2026-06-05
+date: 2026-06-08
 weight: 8
 chapter: false
 pre: " <b> 1.8. </b> "
@@ -8,24 +8,25 @@ pre: " <b> 1.8. </b> "
 
 ### Week 8 Objectives
 
-* Use AWS Cloud9 as a cloud-based development environment.
-* Practice basic text editing and command-line workflows.
-* Use AWS CLI consistently from the cloud IDE.
+* Work with AWS Cloud9 as a cloud-based integrated development environment.
+* Practice editing files, managing resources, and using the terminal inside the IDE.
+* Use AWS CLI consistently from the cloud development environment.
 
-### Tasks to be carried out this week:
+### Tasks for This Week
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Review Cloud9 concepts and environment architecture<br>- Identify supported runtimes and AWS integrations | 05/06/2026 | 05/06/2026 | AWS Cloud9 documentation |
-| 3 | - Create a Cloud9 environment<br>- Explore the IDE layout<br>- Install useful CLI tools | 06/06/2026 | 06/06/2026 | AWS Cloud9 console |
-| 4 | - Create and edit text files in Cloud9<br>- Practice terminal commands and file navigation | 07/06/2026 | 07/06/2026 | Cloud9 getting started guide |
-| 5 | - Configure AWS CLI in Cloud9<br>- Run basic AWS service commands<br>- Validate credentials and region | 08/06/2026 | 09/06/2026 | AWS CLI documentation |
-| 6 | - Clean up Cloud9 environment<br>- Summarize benefits of cloud-based development | 09/06/2026 | 09/06/2026 | AWS cleanup best practices |
+| Day | Tasks | Start Date | Finish Date | Reference |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | -------------------------------- |
+| Monday | - Learn AWS Cloud9 architecture and features.<br>- Study Cloud9 integration with AWS services.<br>- Identify components of a cloud development environment. | 08/06/2026 | 08/06/2026 | https://docs.aws.amazon.com/cloud9/ |
+| Tuesday | - Create an AWS Cloud9 environment.<br>- Explore the IDE interface.<br>- Install and verify useful development tools and AWS CLI. | 09/06/2026 | 09/06/2026 | https://docs.aws.amazon.com/cloud9/latest/user-guide/create-environment.html |
+| Wednesday | - Create, open, and edit files in Cloud9.<br>- Practice using the terminal.<br>- Manage directories and navigate files in the Linux environment. | 10/06/2026 | 10/06/2026 | https://docs.aws.amazon.com/cloud9/latest/user-guide/ |
+| Thursday | - Configure AWS CLI in Cloud9.<br>- Execute basic AWS commands.<br>- Verify credentials, region settings, and service permissions. | 11/06/2026 | 11/06/2026 | https://docs.aws.amazon.com/cli/latest/userguide/ |
+| Friday | - Practice using Cloud9 with AWS CLI.<br>- Review created AWS resources.<br>- Remove Cloud9 resources after completing experiments. | 12/06/2026 | 12/06/2026 | https://docs.aws.amazon.com/cli/latest/reference/ |
+| Saturday | - Summarize AWS Cloud9 and Cloud IDE concepts.<br>- Complete Cloud9 usage notes.<br>- Prepare the learning plan for Week 9. | 13/06/2026 | 13/06/2026 | https://aws.amazon.com/cloud9/ |
 
 ### Week 8 Achievements
 
-* Created and used a Cloud9 development environment.
-* Practiced basic file and terminal operations inside the IDE.
-* Configured AWS CLI and ran AWS service commands from Cloud9.
-* Understood when a cloud IDE is useful for collaborative or browser-based tasks.
-* Documented cleanup steps for Cloud9 environments.
+* Successfully created and used an AWS Cloud9 development environment.
+* Practiced file management and terminal operations in a Cloud IDE.
+* Configured AWS CLI and executed AWS resource management commands from Cloud9.
+* Understood the advantages and suitable use cases of cloud-based development environments.
+* Learned the process of reviewing and cleaning up Cloud9 resources after usage.

@@ -1,6 +1,6 @@
 ---
 title: "Week 4 Worklog"
-date: 2026-05-08
+date: 2026-05-11
 weight: 4
 chapter: false
 pre: " <b> 1.4. </b> "
@@ -8,23 +8,25 @@ pre: " <b> 1.4. </b> "
 
 ### Week 4 Objectives
 
-* Learn IAM fundamentals: users, groups, policies, and access boundaries.
-* Practice least-privilege access design.
-* Separate root access from day-to-day administration.
+* Understand the core components of AWS IAM: Users, Groups, Roles, Policies, and Permissions Boundaries.
+* Practice implementing the Principle of Least Privilege.
+* Separate Root account permissions from daily operational accounts.
 
-### Tasks to be carried out this week:
+### Tasks for This Week
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Review IAM concepts: users, groups, roles, policies<br>- Study managed policy vs inline policy | 08/05/2026 | 08/05/2026 | AWS IAM documentation |
-| 3 | - Create an admin group<br>- Attach appropriate policies<br>- Create an admin user | 09/05/2026 | 09/05/2026 | AWS IAM console |
-| 4 | - Log in using the new admin user<br>- Verify console and CLI access | 10/05/2026 | 10/05/2026 | AWS sign-in page |
-| 5 | - Create an operations user<br>- Create a role-switching policy<br>- Test role assumption | 11/05/2026 | 12/05/2026 | AWS IAM roles guide |
-| 6 | - Review unused users and permissions<br>- Document IAM cleanup steps | 12/05/2026 | 12/05/2026 | AWS IAM best practices |
+| Day | Tasks | Start Date | Finish Date | Reference |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | -------------------------------- |
+| Monday | - Review AWS IAM components: Users, Groups, Roles, and Policies.<br>- Compare Managed Policies and Inline Policies.<br>- Learn about Permissions Boundaries. | 11/05/2026 | 11/05/2026 | https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html |
+| Tuesday | - Create an administrator group.<br>- Attach appropriate IAM policies.<br>- Create an administrator user and assign it to the group. | 12/05/2026 | 12/05/2026 | https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users.html |
+| Wednesday | - Sign in using the administrator account.<br>- Verify permissions in the AWS Console and AWS CLI.<br>- Confirm that assigned permissions work correctly. | 13/05/2026 | 13/05/2026 | https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_sign-in.html |
+| Thursday | - Create an operational user.<br>- Configure IAM Roles and Assume Role permissions.<br>- Practice switching roles between accounts. | 14/05/2026 | 14/05/2026 | https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html |
+| Friday | - Review inactive IAM users.<br>- Audit unnecessary permissions.<br>- Create a periodic IAM cleanup checklist. | 15/05/2026 | 15/05/2026 | https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html |
+| Saturday | - Summarize AWS IAM concepts learned this week.<br>- Finalize the Least Privilege implementation checklist.<br>- Prepare the learning plan for Week 5. | 16/05/2026 | 16/05/2026 | https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/permissions-management.html |
 
 ### Week 4 Achievements
 
-* Created IAM groups and users for administrative and operational use.
-* Applied least-privilege policies for each identity.
-* Practiced switching roles and verifying access boundaries.
-* Documented an IAM governance checklist.
+* Successfully created IAM Groups and Users for administrative and operational roles.
+* Applied the Principle of Least Privilege to access management.
+* Practiced using IAM Roles and switching between roles.
+* Reviewed and removed unnecessary access permissions.
+* Completed a practical AWS IAM administration checklist.

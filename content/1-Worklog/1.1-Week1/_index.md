@@ -1,6 +1,6 @@
 ---
 title: "Week 1 Worklog"
-date: 2026-04-17
+date: 2026-04-20
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -8,23 +8,24 @@ pre: " <b> 1.1. </b> "
 
 ### Week 1 Objectives
 
-* Understand the AWS Free Tier 2025 offering and how the $200 credit campaign works.
-* Build an initial cost-avoidance strategy for the remaining internship.
-* Document personal learning notes and reflect on common credit-burning mistakes.
+* Understand the AWS Free Tier 2025 program and the $200 AWS Credit promotion.
+* Build a cost-protection strategy before deploying cloud resources.
+* Record personal lessons learned about actions that may consume credits unexpectedly.
 
-### Tasks to be carried out this week:
+### Tasks for This Week
 
-| Day | Task | Start Date | Completion Date | Reference Material |
-| --- | --- | ---------- | --------------- | ----------------------------------------- |
-| 2 | - Study AWS Free Tier 2025 updates<br>- Review the difference between Free Tier and paid usage<br>- Identify credit-renewal and renewal-error risks | 17/04/2026 | 17/04/2026 | AWS Free Tier documentation |
-| 3 | - Create an AWS account<br>- Enable Multi-Factor Authentication<br>- Review account root best practices | 18/04/2026 | 18/04/2026 | AWS getting-started guides |
-| 4 | - List five tasks required to earn the full $200 credit<br>- Record earned credits and remaining tasks<br>- Prepare a cost-safety checklist | 19/04/2026 | 19/04/2026 | AWS promotions page |
-| 5 | - Identify behaviors that risk account credit suspension<br>- Review usage alerts and cost-recommendation settings | 20/04/2026 | 21/04/2026 | AWS billing documentation |
-| 6 | - Study architecture blueprints for a $200 credit environment<br>- Learn about monitoring and cost optimization basics<br>- Review FAQ and next-step roadmap | 21/04/2026 | 21/04/2026 | AWS Well-Architected Framework |
+| Day | Tasks | Start Date | Finish Date | Reference |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ----------- | ------------------------------- |
+| Monday | - Learn about AWS Free Tier 2025 and its latest updates.<br>- Compare Free Tier and paid services.<br>- Identify common mistakes that consume AWS credits. | 20/04/2026 | 20/04/2026 | AWS Free Tier: https://aws.amazon.com/free/ |
+| Tuesday | - Create an AWS account.<br>- Enable Multi-Factor Authentication (MFA).<br>- Learn best practices for protecting the Root account. | 21/04/2026 | 21/04/2026 | AWS Account Security: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_root-user.html |
+| Wednesday | - List the five tasks required to receive the full $200 AWS Credit.<br>- Track completion progress.<br>- Create a personal cost-management checklist. | 22/04/2026 | 22/04/2026 | AWS Free Tier FAQs: https://aws.amazon.com/free/free-tier-faqs/ |
+| Thursday | - Learn which activities may cause AWS credits to be exhausted.<br>- Configure AWS Budgets and Cost Alerts.<br>- Review the Billing Dashboard. | 23/04/2026 | 23/04/2026 | AWS Billing User Guide: https://docs.aws.amazon.com/cost-management/latest/userguide/ |
+| Friday | - Study the AWS Well-Architected Framework.<br>- Learn cost optimization strategies for AWS services.<br>- Review the week's knowledge. | 24/04/2026 | 24/04/2026 | https://aws.amazon.com/architecture/well-architected/ |
+| Saturday | - Summarize Week 1 learning outcomes.<br>- Finalize personal notes and cost-management checklist.<br>- Prepare the learning plan for Week 2. | 25/04/2026 | 25/04/2026 | AWS Skill Builder: https://skillbuilder.aws/ |
 
 ### Week 1 Achievements
 
-* Completed AWS account setup with basic billing protections.
-* Understood the difference between always-free, 12-month free, and short-term trial offers.
-* Documented a personal checklist for protecting Free Tier and credit eligibility.
-* Learned core terminology: budget, usage report, billing alarm, and service quota.
+* Successfully created an AWS account and configured essential billing protection settings.
+* Understood the differences between Always Free, 12-Month Free, and Trial offers.
+* Built a personal checklist to prevent unnecessary AWS charges.
+* Learned key AWS cost-management concepts, including Budget, Usage Report, Billing Alarm, and Service Quota.
