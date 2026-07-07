@@ -1,37 +1,41 @@
 ---
-title: "Worklog"
-date: 2024-01-01
+title: "Work Log"
+date: 2026-04-20
 weight: 1
 chapter: false
 pre: " <b> 1. </b> "
 ---
 
-This internship was completed over **12 weeks** (17/04/2026 — 10/07/2026) and includes two phases:
-- **Weeks 1-10:** Foundation AWS labs covering Free Tier, billing, support, IAM, VPC, EC2, Cloud9, S3, and RDS.
-- **Weeks 11-12:** Graduation project on **AWS + Minecraft + Cyber Security**, including architecture design, deployment, GuardDuty monitoring, Lambda automation, Backup, NLB, Global Accelerator, and cleanup.
+The internship program was conducted over **12 weeks** (20/04/2026 — 12/07/2026), focusing on building AWS Cloud fundamentals, practicing cloud infrastructure deployment, and completing the graduation project **Minecraft Security Based on AWS**.
 
-Weekly contents:
+The internship program was divided into two main phases:
 
-**Week 1:** [AWS Free Tier and credit strategy](1.1-week1/)
+- **Weeks 1-10:** Completed fundamental AWS labs covering Free Tier and cost management, AWS Support, IAM, VPC Networking, EC2, IAM Roles, Cloud9, S3, CloudFront, and Amazon RDS. This phase focused on developing knowledge of cloud administration, security, cost optimization, and deploying applications on AWS infrastructure.
 
-**Week 2:** [AWS Budgets and cost management](1.2-week2/)
+- **Weeks 11-12:** Completed the graduation project **Minecraft Security Based on AWS**, including system architecture design, Minecraft Server deployment on AWS, integration of security services such as GuardDuty, EventBridge, Lambda, SNS, Network Load Balancer, and Global Accelerator. The final phase also included system testing, cost optimization, technical documentation, and preparation of the final internship report.
 
-**Week 3:** [AWS Support and help workflow](1.3-week3/)
+The weekly contents are as follows:
 
-**Week 4:** [IAM fundamentals and least-privilege access](1.4-week4/)
+**Week 1:** [AWS Free Tier, $200 Credit and Cost Protection Strategy](1.1-week1/)
 
-**Week 5:** [VPC networking and connectivity verification](1.5-week5/)
+**Week 2:** [AWS Budgets and Cloud Cost Management](1.2-week2/)
 
-**Week 6:** [EC2 advanced lifecycle and application deployment](1.6-week6/)
+**Week 3:** [AWS Support and Support Case Management Process](1.3-week3/)
 
-**Week 7:** [IAM roles for EC2 and secure credential usage](1.7-week7/)
+**Week 4:** [IAM Fundamentals, Users, Groups, Roles and Least Privilege](1.4-week4/)
 
-**Week 8:** [AWS Cloud9 and AWS CLI practice](1.8-week8/)
+**Week 5:** [AWS VPC Networking, Subnets, Route Tables and Security](1.5-week5/)
 
-**Week 9:** [S3 static website hosting and CloudFront](1.9-week9/)
+**Week 6:** [Amazon EC2, EBS, AMI and Instance Lifecycle Management](1.6-week6/)
 
-**Week 10:** [Amazon RDS deployment and backup recovery](1.10-week10/)
+**Week 7:** [IAM Roles for EC2 and Secure Credential Management](1.7-week7/)
 
-**Week 11:** [Graduation project architecture and platform deployment](1.11-week11/)
+**Week 8:** [AWS Cloud9 and AWS CLI Practice in Cloud Environment](1.8-week8/)
 
-**Week 12:** [SOAR automation, alerting, demo, and cleanup](1.12-week12/)
+**Week 9:** [Amazon S3 Static Website Hosting and CloudFront Distribution](1.9-week9/)
+
+**Week 10:** [Amazon RDS, Application Connection and Backup/Restore](1.10-week10/)
+
+**Week 11:** [Testing, Architecture Completion and Deployment of Minecraft Security Based on AWS](1.11-week11/)
+
+**Week 12:** [Workshop Project Completion, Technical Documentation and AWS First Cloud Journey Summary](1.12-week12/)
